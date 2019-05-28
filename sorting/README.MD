@@ -1,6 +1,6 @@
 # CS50 Problem Sets
 
-## Pyramid of Stars
+## Sorting Using Bubble Sort
 
 * Sorting From Large to Small using Bubble Sort.
 * Languace C 
